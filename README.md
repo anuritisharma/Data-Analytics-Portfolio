@@ -21,7 +21,10 @@ An interactive dashboard visualizing global migrant fatalities and US–Mexico b
 - Highlights regional risks, demographic patterns, and forecasting.
 - Stack: R, Shiny, Leaflet, Plotly, Prophet, Circlize
 <img width="1213" alt="image" src="https://github.com/user-attachments/assets/952de9ad-13f4-4d9a-bca5-46a60572700f" />
-
+<img width="1203" alt="image" src="https://github.com/user-attachments/assets/53d37b4d-ba7e-4c97-8b1d-0a73e22f444e" />
+<img width="1203" alt="image" src="https://github.com/user-attachments/assets/53d37b4d-ba7e-4c97-8b1d-0a73e22f444e" />
+<img width="1068" alt="image" src="https://github.com/user-attachments/assets/33cddfb0-63e7-449e-aaaf-d6f6b92c0c3c" />
+<img width="1068" alt="image" src="https://github.com/user-attachments/assets/827e3921-3e67-4f65-9664-89cf993095bc" />
 
 ## Skills Demonstrated
 
