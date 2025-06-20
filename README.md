@@ -16,12 +16,12 @@ A spatial data project analyzing public transport stop density and accessibility
 - Informs transit equity and service expansion.
 - Stack: PostgreSQL, PostGIS, QGIS, SQL
 
-### 3. 🌍 Migration Analysis Dashboard (R Shiny + Leaflet + Plotly)
+### 3. 🌍 Migration Analysis Dashboard (R Shiny + Leaflet + Plotly + Tableau/PowerBI)
 An interactive dashboard visualizing global migrant fatalities and US–Mexico border encounters using time series, maps, and chord diagrams.
 - Highlights regional risks, demographic patterns, and forecasting.
 - Stack: R, Shiny, Leaflet, Plotly, Prophet, Circlize
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - **Exploratory & Predictive Analytics**
 - **Machine Learning & Clustering**
