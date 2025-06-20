@@ -20,6 +20,8 @@ A spatial data project analyzing public transport stop density and accessibility
 An interactive dashboard visualizing global migrant fatalities and US–Mexico border encounters using time series, maps, and chord diagrams.
 - Highlights regional risks, demographic patterns, and forecasting.
 - Stack: R, Shiny, Leaflet, Plotly, Prophet, Circlize
+<img width="1213" alt="image" src="https://github.com/user-attachments/assets/952de9ad-13f4-4d9a-bca5-46a60572700f" />
+
 
 ## Skills Demonstrated
 
