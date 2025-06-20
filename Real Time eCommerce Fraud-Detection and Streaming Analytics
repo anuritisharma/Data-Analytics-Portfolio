@@ -1,0 +1,57 @@
+# Real Time eCommerce Fraud-Detection and Streaming Analytics
+This project showcases a comprehensive big data solution to detect and monitor eCommerce fraud using historical analysis, machine learning pipelines, and real-time streaming integration.The project leveraged Apache Spark, Kafka, and PySpark MLlib to deliver both predictive insights and live fraud surveillance.
+
+## Phase 1 : Fraud Analysis on Historical Data with RDD, DataFrame & Spark SQL
+1. Built a full Spark pipeline using RDDs, DataFrames, and Spark SQL APIs.
+2. Extracted key fraud metrics: loss per merchant, fraud trends by time, high-risk customers.
+3. Benchmarked performance across RDD, DataFrame, and SQL queries.
+4. Identified high-risk zones by combining customer age, city type, and fraud rates.
+
+## Phase 2 : Machine Learning Pipeline for Fraud Detection (Spark MLlib)
+1. Engineered features from browsing sessions, customer profiles, and purchase history.
+2. Defined meaningful behavioural event tiers (L1, L2, L3) and derived ratios & time-of-day insights.
+3. Trained and evaluated Random Forest and Gradient Boosted Trees for binary classification.
+4. Evaluated performance using AUC, ROC, precision/recall, and persisted the best model.
+5. Applied K-Means clustering to detect fraudster behaviour types from event patterns.
+
+## Phase 3: Real-Time Fraud Detection using Kafka & Spark Streaming
+1. Simulated real-time web activity using Kafka producers with controlled timestamps.
+
+2. Developed a Spark Structured Streaming application that:
+ 2.1 Joined static and streaming datasets
+ 2.2 Ingested new_browsing_behaviour.csv and new_transaction.csv
+ 2.3 Generated real-time features and ran predictions using the persisted ML model
+   
+3. Created two streaming dashboards:
+ 3.1 Fraud alerts every 10 seconds
+ 3.2 Inventory & top-product trends every 30 seconds
+
+4. Built an advanced geospatial fraud map (bubble/choropleth) to detect hotspot locations.
+   
+5. Persisted predictions to Parquet and streamed visual results back via Kafka consumers.
+
+## Tools & Technologies
+
+1. Apache Spark 3.5+ (RDD, DataFrame, SQL, MLlib, Structured Streaming)
+
+2. Apache Kafka – Real-time message queue for event simulation and processing
+
+3. PySpark + Jupyter Notebook – End-to-end pipeline and notebook orchestration
+
+4. Matplotlib, Seaborn, Plotly – Fraud & behaviour visualizations
+
+5. Parquet Format – Persistent storage of model outputs and logs
+
+6. Docker – Controlled and reproducible lab environment
+
+## Project Impact
+
+1. **End-to-end problem-solving**: From raw data wrangling to live deployment.
+
+2. **Fraud detection strategy**: Integrating statistical, ML-based, and behaviour-based approaches.
+
+3. **Streaming system design**: Seamless Kafka-Spark model integration and transformation.
+
+4. **Impact-focused analytics**: Built to deliver business insight—not just predictions.
+
+5. **Scalable & modular architecture**: Flexible enough for new fraud types or product expansions.
