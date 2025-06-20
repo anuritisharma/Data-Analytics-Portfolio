@@ -1,0 +1,39 @@
+# Migration-Analysis: Visualizing Global Migration Trends
+An Interactive Data Storytelling dashboard on Global Border Crossings and Migrant Fatalities Developed using R, Shiny, Leaflet, Plotly, and Dygraphs. This dashboard moves beyond static reports to offer real-time, explorable evidence on one of the world’s most pressing humanitarian crises.
+
+## Impact of the project
+
+**Geographic Insights**: Identified regional hotspots of migrant deaths using interactive mapping.
+
+**Trend Forecasting**: Revealed seasonal peaks in fatalities through time-series prediction.
+
+**Demographic Insights**: Pinpointed vulnerable migrant groups to inform targeted interventions.
+
+**Visual Correlation**: Mapped links between causes of death and routes using a chord diagram for risk mitigation planning.
+
+**Stakeholder Value**: Designed for policymakers, humanitarian agencies, and research institutions aiming to improve migration response strategies.
+
+This project addresses the humanitarian and geopolitical challenges of global migration by creating a dynamic, interactive dashboard that visualizes:
+
+1. Global migrant fatalities over time and geography
+2. US–Mexico border encounter trends
+3. Demographics and nationality breakdowns
+4. Relationships between migration routes and causes of death
+
+The goal is to provide actionable insights to humanitarian organizations, policymakers, and researchers through intuitive and data-rich visualizations.
+
+## Interactive Narrative Dashboard (Built in R, Shiny and D3 framework)
+
+**Dead and Missing Migrants Tab**: Choropleth and bubble maps display fatality counts by region. Clicking reveals time trends via interactive modals.
+
+**US–Mexico Border Tab**: Choropleth and bar charts illustrate encounter trends by state, citizenship, and demographics.
+
+**Detailed Analysis Tab**: A custom chord diagram visualizes links between causes of death and migration routes.
+
+## Tech Stack & Libraries Used
+
+1. R Shiny, shinydashboard, shinythemes – for interactive UI and layout
+2. Leaflet – for choropleth and geospatial maps
+3. Plotly, ggplot2, dygraphs, circlize – for time-series, bar, and chord visualizations
+4. Prophet – for forecasting migration fatalities over time
+5. Tidyverse, Lubridate, readxl, sf, RColorBrewer – for data cleaning and spatial formatting
