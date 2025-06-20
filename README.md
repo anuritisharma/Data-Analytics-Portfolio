@@ -25,13 +25,10 @@ A spatial data project analyzing public transport stop density and accessibility
 #### 2.3	Comparative Analysis
 <img width="504" alt="image" src="https://github.com/user-attachments/assets/8e1b35a7-3885-4cb1-a838-e1bcdf4d7009" />
 
-#### 2.4	Comparative Analysis
-<img width="504" alt="image" src="https://github.com/user-attachments/assets/16ab66a9-d936-41ab-9656-cc2f7bb983b2" />
-
-#### 2.5 Zone-Based Weekday Transport Service
+#### 2.4 Zone-Based Weekday Transport Service
 <img width="513" alt="image" src="https://github.com/user-attachments/assets/147890cb-3d3d-4382-a5f4-0f51a38f6f9c" />
 
-#### 2.6 Zone-Based Weekend Transport Service
+#### 2.5 Zone-Based Weekend Transport Service
 <img width="490" alt="image" src="https://github.com/user-attachments/assets/7cde6796-0279-427b-b843-d7e59ce72025" />
 
 ### 3. 🌍 Migration Analysis Dashboard (R Shiny + Leaflet + Plotly + Tableau/PowerBI)
