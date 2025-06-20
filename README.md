@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Welcome to my portfolio of data analytics projects, where I showcase practical, end-to-end solutions across diverse domains—from migration and transport planning to fraud detection and real-time streaming systems.
+Welcome to my portfolio of data analytics projects, where I showcase practical, end-to-end solutions across diverse domains ranging from migration and transport planning to fraud detection and real-time streaming systems.
 
 Each project reflects my commitment to solving real-world problems through data, combining **technical depth**, **business relevance**, and **visual storytelling** using tools like **Python**, **R**, **Spark**, **SQL**, and **Shiny**.
 
