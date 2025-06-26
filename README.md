@@ -31,7 +31,7 @@ A spatial data project analyzing public transport stop density and accessibility
 #### 2.5 Zone-Based Weekend Transport Service
 <img width="490" alt="image" src="https://github.com/user-attachments/assets/7cde6796-0279-427b-b843-d7e59ce72025" />
 
-### 3. 🌍 Migration Analysis Dashboard (R Shiny + Leaflet + Plotly + Tableau/PowerBI)
+### 3. 🌍 Global Migrant Fatalities & Border Trends Explorer (R Shiny + Leaflet + Plotly + Tableau)
 An interactive dashboard visualizing global migrant fatalities and US–Mexico border encounters using time series, maps, and chord diagrams.
 - Highlights regional risks, demographic patterns, and forecasting.
 - Stack: R, Shiny, Leaflet, Plotly, Prophet, Circlize
