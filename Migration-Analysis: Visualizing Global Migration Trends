@@ -1,4 +1,4 @@
-# Migration-Analysis: Visualizing Global Migration Trends
+# Global Migrant Fatalities & Border Trends Explorer
 An Interactive Data Storytelling dashboard on Global Border Crossings and Migrant Fatalities Developed using R, Shiny, Leaflet, Plotly, and Dygraphs. This dashboard moves beyond static reports to offer real-time, explorable evidence on one of the world’s most pressing humanitarian crises.
 
 ## Impact of the project
